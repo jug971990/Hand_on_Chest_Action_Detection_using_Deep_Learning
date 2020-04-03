@@ -40,7 +40,7 @@
 
  # Trained model:
 
-     The trained model is available in the below path
+     The trained models are available in the below path
 
      Hand_on_Chest_Action_Detection_using_Deep_Learning/Trained_model
 
