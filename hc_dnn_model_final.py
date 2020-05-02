@@ -415,7 +415,7 @@ test_features.head(1)
 ## returns a compiled model
 # identical to the previous one
 #model = load_model('hc_model_new_1000_u1.h5')
-model = load_model('hc_model_new_60_final_fo.h5')
+model = load_model('./pretrained_model/hc_model_new_60_final_fo.h5')
 
 
 # ## Plotting the results
