@@ -472,8 +472,8 @@ results = y_p
 # In[263]:
 
 
-results[results<=0.5]=0
-results[results>0.5]=1
+results[results<=0.8]=0
+results[results>0.8]=1
 
 
 # In[264]:
